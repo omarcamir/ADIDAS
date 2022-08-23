@@ -1,3 +1,3 @@
 # ADIDAS
-  <h3>A Responsive Landing Page for ADIDAS using " HTML, CSS "</h3>
+  <h3>A Simple Responsive Landing Page  using " HTML, CSS "</h3>
   
